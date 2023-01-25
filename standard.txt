@@ -1,0 +1,47 @@
+CONDITIONS/ITERATIONS: 
+
+if(condition){
+saut de ligne seulement ici
+tabulation*1 suivie du code
+}
+
+if(condition){
+saut de ligne seulement ici
+tabulation*1 suivie du code
+}else{
+ saut de ligne seulement ici
+ tabulation*1 suivie du code	
+ }
+
+for(variable deja declaree;condition;operation){
+saut de ligne seulement ici
+tabulation*1 suivie du code
+}
+
+while(condition){
+saut de ligne seulement ici
+tabulation*1 suivie du code
+}
+
+do{
+tabulation*1 suivie du code
+}while(code);
+
+
+NOMMAGE:
+
+Nom de variable/objet commence par une minuscule: uneVariable/unObjet
+
+Nom de classe est un mot simple et commence par une majuscule: Classe
+
+Nom de methode commence par une minuscule: uneMethode()
+
+
+GIT:
+
+Le commit de chaque git est un minimum detaille
+
+
+MAKE:
+
+Le fichier Makefile se trouve a la racine du depot sous le nom de "Makefile"
